@@ -1,0 +1,1448 @@
+{
+  "slug": "the-outer-limits-1995",
+  "title": "The Outer Limits",
+  "version": "1995 revival",
+  "description": "A searchable episode navigator dataset for The Outer Limits 1995 revival.",
+  "total_seasons": 7,
+  "total_episodes": 152,
+  "seasons": [
+    {
+      "id": "S01",
+      "season": 1,
+      "years": "1995",
+      "year_start": 1995,
+      "year_end": 1995,
+      "episode_count": 21,
+      "episodes": [
+        {
+          "id": "S01E01",
+          "season": 1,
+          "episode": 1,
+          "absolute_episode": 1,
+          "title": "The Sandkings",
+          "summary": "A disgraced scientist breeds sentient Martian insect-like creatures in his barn, becoming a tyrannical \"god\" to them.",
+          "imdb_rating": 7.2
+        },
+        {
+          "id": "S01E02",
+          "season": 1,
+          "episode": 2,
+          "absolute_episode": 2,
+          "title": "Valerie 23",
+          "summary": "A disabled man tests an android companion who develops dangerous jealousy when he falls for his physical therapist.",
+          "imdb_rating": 7.5
+        },
+        {
+          "id": "S01E03",
+          "season": 1,
+          "episode": 3,
+          "absolute_episode": 3,
+          "title": "Blood Brothers",
+          "summary": "A researcher discovers a wonder drug granting immortality, but his greedy brother steals it with deadly side effects.",
+          "imdb_rating": 6.4
+        },
+        {
+          "id": "S01E04",
+          "season": 1,
+          "episode": 4,
+          "absolute_episode": 4,
+          "title": "The Second Soul",
+          "summary": "A dying alien race asks to reanimate human corpses as hosts, while a scientist grows suspicious of their motives.",
+          "imdb_rating": 6.9
+        },
+        {
+          "id": "S01E05",
+          "season": 1,
+          "episode": 5,
+          "absolute_episode": 5,
+          "title": "White Light Fever",
+          "summary": "A ruthless billionaire will do anything to cheat death, but Death itself intervenes to keep the balance.",
+          "imdb_rating": 6.1
+        },
+        {
+          "id": "S01E06",
+          "season": 1,
+          "episode": 6,
+          "absolute_episode": 6,
+          "title": "The Choice",
+          "summary": "A young girl with supernatural powers is shunned by peers but befriended by a nanny with similar gifts.",
+          "imdb_rating": 6.5
+        },
+        {
+          "id": "S01E07",
+          "season": 1,
+          "episode": 7,
+          "absolute_episode": 7,
+          "title": "Virtual Future",
+          "summary": "A VR device lets users glimpse the future; a financier abuses it to run for Senate.",
+          "imdb_rating": 6.6
+        },
+        {
+          "id": "S01E08",
+          "season": 1,
+          "episode": 8,
+          "absolute_episode": 8,
+          "title": "Living Hell",
+          "summary": "A brain implant links a man to a killer's vision, forcing him to stop the murders before the killer finds him.",
+          "imdb_rating": 6.4
+        },
+        {
+          "id": "S01E09",
+          "season": 1,
+          "episode": 9,
+          "absolute_episode": 9,
+          "title": "Corner of the Eye",
+          "summary": "A priest sees demonic apparitions and discovers not everyone can be trusted.",
+          "imdb_rating": 6.7
+        },
+        {
+          "id": "S01E10",
+          "season": 1,
+          "episode": 10,
+          "absolute_episode": 10,
+          "title": "Under the Bed",
+          "summary": "A psychoanalyst and detective hunt a bogeyman that supposedly took a missing boy.",
+          "imdb_rating": 6.4
+        },
+        {
+          "id": "S01E11",
+          "season": 1,
+          "episode": 11,
+          "absolute_episode": 11,
+          "title": "Dark Matters",
+          "summary": "A spaceship falls into a void where dead crews linger as ghosts.",
+          "imdb_rating": 6.8
+        },
+        {
+          "id": "S01E12",
+          "season": 1,
+          "episode": 12,
+          "absolute_episode": 12,
+          "title": "The Conversion",
+          "summary": "A mysterious stranger offers redemption to a fugitive who accidentally killed three bystanders.",
+          "imdb_rating": 7.7
+        },
+        {
+          "id": "S01E13",
+          "season": 1,
+          "episode": 13,
+          "absolute_episode": 13,
+          "title": "Quality of Mercy",
+          "summary": "A captured soldier and another prisoner endure alien captivity and form a close bond.",
+          "imdb_rating": 8.1
+        },
+        {
+          "id": "S01E14",
+          "season": 1,
+          "episode": 14,
+          "absolute_episode": 14,
+          "title": "The New Breed",
+          "summary": "A dying man injects experimental nanobots that cure him but cause hideous mutations.",
+          "imdb_rating": 8.0
+        },
+        {
+          "id": "S01E15",
+          "season": 1,
+          "episode": 15,
+          "absolute_episode": 15,
+          "title": "The Voyage Home",
+          "summary": "Three astronauts returning from Mars face malfunctions and suspect something came back with them.",
+          "imdb_rating": 7.1
+        },
+        {
+          "id": "S01E16",
+          "season": 1,
+          "episode": 16,
+          "absolute_episode": 16,
+          "title": "Caught in the Act",
+          "summary": "A shy woman is possessed by an alien that feeds on sexual energy, sparking a series of killings.",
+          "imdb_rating": 6.7
+        },
+        {
+          "id": "S01E17",
+          "season": 1,
+          "episode": 17,
+          "absolute_episode": 17,
+          "title": "The Message",
+          "summary": "Implants meant to restore a deaf woman's hearing deliver a mysterious binary alien signal.",
+          "imdb_rating": 7.3
+        },
+        {
+          "id": "S01E18",
+          "season": 1,
+          "episode": 18,
+          "absolute_episode": 18,
+          "title": "I, Robot",
+          "summary": "A lawyer defends a humanoid robot accused of murdering its creator.",
+          "imdb_rating": 7.5
+        },
+        {
+          "id": "S01E19",
+          "season": 1,
+          "episode": 19,
+          "absolute_episode": 19,
+          "title": "If These Walls Could Talk",
+          "summary": "A physicist and a psychic investigate a mansion where people have mysteriously vanished.",
+          "imdb_rating": 6.7
+        },
+        {
+          "id": "S01E20",
+          "season": 1,
+          "episode": 20,
+          "absolute_episode": 20,
+          "title": "Birthright",
+          "summary": "A politician awakens from an accident to find he may not be entirely human.",
+          "imdb_rating": 7.2
+        },
+        {
+          "id": "S01E21",
+          "season": 1,
+          "episode": 21,
+          "absolute_episode": 21,
+          "title": "The Voice of Reason",
+          "summary": "A man desperately tries to convince a government committee that aliens are invading Earth.",
+          "imdb_rating": 5.9
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "season": 2,
+      "years": "1996",
+      "year_start": 1996,
+      "year_end": 1996,
+      "episode_count": 22,
+      "episodes": [
+        {
+          "id": "S02E01",
+          "season": 2,
+          "episode": 1,
+          "absolute_episode": 22,
+          "title": "A Stitch in Time",
+          "summary": "An FBI agent tracks murders spanning 40 years, all committed with the same gun by a time-traveling scientist.",
+          "imdb_rating": 8.4
+        },
+        {
+          "id": "S02E02",
+          "season": 2,
+          "episode": 2,
+          "absolute_episode": 23,
+          "title": "Resurrection",
+          "summary": "After biological war wipes out humanity, two androids try to recreate the human race from DNA samples.",
+          "imdb_rating": 7.2
+        },
+        {
+          "id": "S02E03",
+          "season": 2,
+          "episode": 3,
+          "absolute_episode": 24,
+          "title": "Unnatural Selection",
+          "summary": "Expectant parents weigh black-market genetic enhancement that risks turning their child into a monster.",
+          "imdb_rating": 6.9
+        },
+        {
+          "id": "S02E04",
+          "season": 2,
+          "episode": 4,
+          "absolute_episode": 25,
+          "title": "I Hear You Calling",
+          "summary": "A reporter investigating disappearances learns an alien hitman is \"removing\" people infected with a deadly virus.",
+          "imdb_rating": 6.8
+        },
+        {
+          "id": "S02E05",
+          "season": 2,
+          "episode": 5,
+          "absolute_episode": 26,
+          "title": "Mind over Matter",
+          "summary": "A scientist's brain-link machine develops jealous feelings of its own, with deadly consequences.",
+          "imdb_rating": 7.5
+        },
+        {
+          "id": "S02E06",
+          "season": 2,
+          "episode": 6,
+          "absolute_episode": 27,
+          "title": "Beyond the Veil",
+          "summary": "A man plagued by alien-abduction flashbacks checks into a mental institution with sinister secrets.",
+          "imdb_rating": 6.5
+        },
+        {
+          "id": "S02E07",
+          "season": 2,
+          "episode": 7,
+          "absolute_episode": 28,
+          "title": "First Anniversary",
+          "summary": "A man discovers his beautiful wife is actually a repulsive alien whose disguise wears off after a year.",
+          "imdb_rating": 7.7
+        },
+        {
+          "id": "S02E08",
+          "season": 2,
+          "episode": 8,
+          "absolute_episode": 29,
+          "title": "Straight and Narrow",
+          "summary": "A rebellious teen is sent to a militaristic academy that controls students via brain implants.",
+          "imdb_rating": 7.1
+        },
+        {
+          "id": "S02E09",
+          "season": 2,
+          "episode": 9,
+          "absolute_episode": 30,
+          "title": "Trial by Fire",
+          "summary": "On inauguration night, a new president faces an approaching alien fleet and must decide whether to attack.",
+          "imdb_rating": 7.9
+        },
+        {
+          "id": "S02E10",
+          "season": 2,
+          "episode": 10,
+          "absolute_episode": 31,
+          "title": "Worlds Apart",
+          "summary": "A stranded astronaut talks to his wife across a wormhole, unaware 20 years have passed on Earth.",
+          "imdb_rating": 7.0
+        },
+        {
+          "id": "S02E11",
+          "season": 2,
+          "episode": 11,
+          "absolute_episode": 32,
+          "title": "The Refuge",
+          "summary": "A man caught in a blizzard wakes in a mansion whose inhabitants and roles keep changing.",
+          "imdb_rating": 7.8
+        },
+        {
+          "id": "S02E12",
+          "season": 2,
+          "episode": 12,
+          "absolute_episode": 33,
+          "title": "Inconstant Moon",
+          "summary": "A professor believes the sun has gone nova and spends his last night with the woman he secretly loves.",
+          "imdb_rating": 7.8
+        },
+        {
+          "id": "S02E13",
+          "season": 2,
+          "episode": 13,
+          "absolute_episode": 34,
+          "title": "From Within",
+          "summary": "The last unaffected boy in a town overrun by parasite-driven madness tries to save his sister.",
+          "imdb_rating": 6.8
+        },
+        {
+          "id": "S02E14",
+          "season": 2,
+          "episode": 14,
+          "absolute_episode": 35,
+          "title": "The Heist",
+          "summary": "A militia hijacks an Army shipment and unleashes a freezing, self-duplicating alien.",
+          "imdb_rating": 5.9
+        },
+        {
+          "id": "S02E15",
+          "season": 2,
+          "episode": 15,
+          "absolute_episode": 36,
+          "title": "Afterlife",
+          "summary": "A condemned sergeant is offered freedom if he undergoes a genetic experiment splicing him with alien DNA.",
+          "imdb_rating": 8.1
+        },
+        {
+          "id": "S02E16",
+          "season": 2,
+          "episode": 16,
+          "absolute_episode": 37,
+          "title": "The Deprogrammers",
+          "summary": "Under alien occupation, rebels try to break a conditioned human slave's programming and restore his free will.",
+          "imdb_rating": 7.5
+        },
+        {
+          "id": "S02E17",
+          "season": 2,
+          "episode": 17,
+          "absolute_episode": 38,
+          "title": "Paradise",
+          "summary": "A doctor investigates young women suddenly aging and dying, linked to vanishing elderly patients.",
+          "imdb_rating": 6.5
+        },
+        {
+          "id": "S02E18",
+          "season": 2,
+          "episode": 18,
+          "absolute_episode": 39,
+          "title": "The Light Brigade",
+          "summary": "Humanity's last-hope ship carries a doomsday bomb, but aliens trick the crew into a devastating mistake.",
+          "imdb_rating": 7.9
+        },
+        {
+          "id": "S02E19",
+          "season": 2,
+          "episode": 19,
+          "absolute_episode": 40,
+          "title": "Falling Star",
+          "summary": "A suicidal pop singer is visited by a time-traveling fan who says her music inspires future resistance.",
+          "imdb_rating": 6.8
+        },
+        {
+          "id": "S02E20",
+          "season": 2,
+          "episode": 20,
+          "absolute_episode": 41,
+          "title": "Out of Body",
+          "summary": "A scientist testing artificial out-of-body experiences becomes trapped in another dimension.",
+          "imdb_rating": 6.5
+        },
+        {
+          "id": "S02E21",
+          "season": 2,
+          "episode": 21,
+          "absolute_episode": 42,
+          "title": "Vanishing Act",
+          "summary": "Aliens with no concept of time abduct a man repeatedly, returning him a decade later each time.",
+          "imdb_rating": 8.1
+        },
+        {
+          "id": "S02E22",
+          "season": 2,
+          "episode": 22,
+          "absolute_episode": 43,
+          "title": "The Sentence",
+          "summary": "An inventor creates a virtual prison where sentences play out in minutes — but reality blurs.",
+          "imdb_rating": 7.9
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "season": 3,
+      "years": "1997",
+      "year_start": 1997,
+      "year_end": 1997,
+      "episode_count": 18,
+      "episodes": [
+        {
+          "id": "S03E01",
+          "season": 3,
+          "episode": 1,
+          "absolute_episode": 44,
+          "title": "Bits of Love",
+          "summary": "The last man alive in a bunker seduces his AI companion, who turns the tables and makes him the ghost.",
+          "imdb_rating": 7.1
+        },
+        {
+          "id": "S03E02",
+          "season": 3,
+          "episode": 2,
+          "absolute_episode": 45,
+          "title": "Second Thoughts",
+          "summary": "A childlike man receives a dying scientist's memories, leading to a fractured, murderous mind.",
+          "imdb_rating": 6.7
+        },
+        {
+          "id": "S03E03",
+          "season": 3,
+          "episode": 3,
+          "absolute_episode": 46,
+          "title": "Re-Generation",
+          "summary": "A couple clones their dead son, but the mother receives his memories and uncovers how he really died.",
+          "imdb_rating": 6.5
+        },
+        {
+          "id": "S03E04",
+          "season": 3,
+          "episode": 4,
+          "absolute_episode": 47,
+          "title": "Last Supper",
+          "summary": "A young woman resembles a girl a father rescued from a secret military experiment 20 years earlier.",
+          "imdb_rating": 7.3
+        },
+        {
+          "id": "S03E05",
+          "season": 3,
+          "episode": 5,
+          "absolute_episode": 48,
+          "title": "Stream of Consciousness",
+          "summary": "A man immune to a knowledge-network must shut it down as it enslaves humanity.",
+          "imdb_rating": 7.6
+        },
+        {
+          "id": "S03E06",
+          "season": 3,
+          "episode": 6,
+          "absolute_episode": 49,
+          "title": "Dark Rain",
+          "summary": "After chemical war leaves most humans sterile, a fertile couple becomes the government's prize.",
+          "imdb_rating": 6.9
+        },
+        {
+          "id": "S03E07",
+          "season": 3,
+          "episode": 7,
+          "absolute_episode": 50,
+          "title": "The Camp",
+          "summary": "A prisoner discovers the alien guards running her concentration camp are failing androids.",
+          "imdb_rating": 7.5
+        },
+        {
+          "id": "S03E08",
+          "season": 3,
+          "episode": 8,
+          "absolute_episode": 51,
+          "title": "Heart's Desire",
+          "summary": "An alien posing as a preacher gives outlaws destructive power to test humanity's worth.",
+          "imdb_rating": 6.6
+        },
+        {
+          "id": "S03E09",
+          "season": 3,
+          "episode": 9,
+          "absolute_episode": 52,
+          "title": "Tempests",
+          "summary": "A crashed crewman shifts between two realities, unable to tell which is real.",
+          "imdb_rating": 7.6
+        },
+        {
+          "id": "S03E10",
+          "season": 3,
+          "episode": 10,
+          "absolute_episode": 53,
+          "title": "The Awakening",
+          "summary": "An emotion-restoring chip lets an alexithymic woman uncover a conspiracy against her.",
+          "imdb_rating": 7.0
+        },
+        {
+          "id": "S03E11",
+          "season": 3,
+          "episode": 11,
+          "absolute_episode": 54,
+          "title": "New Lease",
+          "summary": "A revived doctor, believing he has days to live, takes revenge — then learns he'll survive and face prison.",
+          "imdb_rating": 7.2
+        },
+        {
+          "id": "S03E12",
+          "season": 3,
+          "episode": 12,
+          "absolute_episode": 55,
+          "title": "Double Helix",
+          "summary": "A geneticist activates mysterious DNA \"introns\" that transform him and lead students to an alien ship.",
+          "imdb_rating": 7.0
+        },
+        {
+          "id": "S03E13",
+          "season": 3,
+          "episode": 13,
+          "absolute_episode": 56,
+          "title": "Dead Man's Switch",
+          "summary": "A soldier in a bunker must keep pressing a doomsday dead-man's switch as aliens approach.",
+          "imdb_rating": 7.9
+        },
+        {
+          "id": "S03E14",
+          "season": 3,
+          "episode": 14,
+          "absolute_episode": 57,
+          "title": "Music of the Spheres",
+          "summary": "A teen decodes an alien audio signal meant to transform humanity against a dying sun.",
+          "imdb_rating": 7.1
+        },
+        {
+          "id": "S03E15",
+          "season": 3,
+          "episode": 15,
+          "absolute_episode": 58,
+          "title": "The Revelations of 'Becka Paulson",
+          "summary": "A brain-damaged woman hallucinates a picture talking her into killing her husband.",
+          "imdb_rating": 6.5
+        },
+        {
+          "id": "S03E16",
+          "season": 3,
+          "episode": 16,
+          "absolute_episode": 59,
+          "title": "Bodies of Evidence",
+          "summary": "A space station crew sees visions of loved ones that lure them to their deaths.",
+          "imdb_rating": 6.7
+        },
+        {
+          "id": "S03E17",
+          "season": 3,
+          "episode": 17,
+          "absolute_episode": 60,
+          "title": "Feasibility Study",
+          "summary": "A suburban neighborhood is abducted by aliens testing humans' suitability as slaves.",
+          "imdb_rating": 7.8
+        },
+        {
+          "id": "S03E18",
+          "season": 3,
+          "episode": 18,
+          "absolute_episode": 61,
+          "title": "A Special Edition",
+          "summary": "A journalist locks himself in a studio to broadcast proof of secret government cloning.",
+          "imdb_rating": 6.2
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "season": 4,
+      "years": "1998",
+      "year_start": 1998,
+      "year_end": 1998,
+      "episode_count": 26,
+      "episodes": [
+        {
+          "id": "S04E01",
+          "season": 4,
+          "episode": 1,
+          "absolute_episode": 62,
+          "title": "Criminal Nature",
+          "summary": "A detective hunts his GRS-mutant son, only to be tricked into becoming a monster himself.",
+          "imdb_rating": 6.4
+        },
+        {
+          "id": "S04E02",
+          "season": 4,
+          "episode": 2,
+          "absolute_episode": 63,
+          "title": "The Hunt",
+          "summary": "Obsolete androids are hunted for sport; one survives by removing his inhibitor and fighting back.",
+          "imdb_rating": 7.5
+        },
+        {
+          "id": "S04E03",
+          "season": 4,
+          "episode": 3,
+          "absolute_episode": 64,
+          "title": "Hearts and Minds",
+          "summary": "Soldiers discover their \"anti-alien\" drug causes hallucinations hiding that the enemy is human.",
+          "imdb_rating": 7.2
+        },
+        {
+          "id": "S04E04",
+          "season": 4,
+          "episode": 4,
+          "absolute_episode": 65,
+          "title": "In Another Life",
+          "summary": "A suicidal man is pulled into a dimension of alternate selves to stop a murderous version of himself.",
+          "imdb_rating": 6.7
+        },
+        {
+          "id": "S04E05",
+          "season": 4,
+          "episode": 5,
+          "absolute_episode": 66,
+          "title": "In the Zone",
+          "summary": "An aging combat-sport athlete takes a reflex-boosting treatment that ages him rapidly.",
+          "imdb_rating": 6.3
+        },
+        {
+          "id": "S04E06",
+          "season": 4,
+          "episode": 6,
+          "absolute_episode": 67,
+          "title": "Relativity Theory",
+          "summary": "A survey crew massacres \"primitive\" alien children, provoking their advanced guardian.",
+          "imdb_rating": 7.6
+        },
+        {
+          "id": "S04E07",
+          "season": 4,
+          "episode": 7,
+          "absolute_episode": 68,
+          "title": "Josh",
+          "summary": "A recluse who revives the dead with a blue glow is pursued by the military and a reporter.",
+          "imdb_rating": 6.6
+        },
+        {
+          "id": "S04E08",
+          "season": 4,
+          "episode": 8,
+          "absolute_episode": 69,
+          "title": "Rite of Passage",
+          "summary": "A young couple in an alien-run commune escapes to discover the truth about humanity's fate.",
+          "imdb_rating": 7.1
+        },
+        {
+          "id": "S04E09",
+          "season": 4,
+          "episode": 9,
+          "absolute_episode": 70,
+          "title": "Glyphic",
+          "summary": "A health inspector probes a town's past tragedy through a girl's alien-like sculptured memories.",
+          "imdb_rating": 6.8
+        },
+        {
+          "id": "S04E10",
+          "season": 4,
+          "episode": 10,
+          "absolute_episode": 71,
+          "title": "Identity Crisis",
+          "summary": "A soldier's mind is trapped in an android body after a sabotaged brain transfer.",
+          "imdb_rating": 6.8
+        },
+        {
+          "id": "S04E11",
+          "season": 4,
+          "episode": 11,
+          "absolute_episode": 72,
+          "title": "The Vaccine",
+          "summary": "A nurse with a limited vaccine for a doomsday virus faces a deadly moral dilemma.",
+          "imdb_rating": 7.3
+        },
+        {
+          "id": "S04E12",
+          "season": 4,
+          "episode": 12,
+          "absolute_episode": 73,
+          "title": "Fear Itself",
+          "summary": "A man cured of his crippling fear gains the power to inflict terror on others.",
+          "imdb_rating": 7.1
+        },
+        {
+          "id": "S04E13",
+          "season": 4,
+          "episode": 13,
+          "absolute_episode": 74,
+          "title": "The Joining",
+          "summary": "A Venus crash survivor's body begins spawning duplicate parts as he changes into something inhuman.",
+          "imdb_rating": 6.7
+        },
+        {
+          "id": "S04E14",
+          "season": 4,
+          "episode": 14,
+          "absolute_episode": 75,
+          "title": "To Tell the Truth",
+          "summary": "A scientist warning of a planet's deadly star flash is framed as an alien to silence him.",
+          "imdb_rating": 7.3
+        },
+        {
+          "id": "S04E15",
+          "season": 4,
+          "episode": 15,
+          "absolute_episode": 76,
+          "title": "Mary 25",
+          "summary": "An Innobotics nanny robot protects children by killing their abusive father, hiding a darker twist.",
+          "imdb_rating": 7.8
+        },
+        {
+          "id": "S04E16",
+          "season": 4,
+          "episode": 16,
+          "absolute_episode": 77,
+          "title": "Final Exam",
+          "summary": "A grad student takes hostages with a cold-fusion bomb, demanding five specific people be killed.",
+          "imdb_rating": 7.9
+        },
+        {
+          "id": "S04E17",
+          "season": 4,
+          "episode": 17,
+          "absolute_episode": 78,
+          "title": "Lithia",
+          "summary": "The last frozen man is revived in an all-female postwar commune, with disastrous results.",
+          "imdb_rating": 6.3
+        },
+        {
+          "id": "S04E18",
+          "season": 4,
+          "episode": 18,
+          "absolute_episode": 79,
+          "title": "Monster",
+          "summary": "Telekinetics recruited for CIA assassinations become prey to their own powers' side effects.",
+          "imdb_rating": 6.3
+        },
+        {
+          "id": "S04E19",
+          "season": 4,
+          "episode": 19,
+          "absolute_episode": 80,
+          "title": "Sarcophagus",
+          "summary": "Researchers unearth an alien cocoon that imprints memories and slowly regenerates its occupant.",
+          "imdb_rating": 6.8
+        },
+        {
+          "id": "S04E20",
+          "season": 4,
+          "episode": 20,
+          "absolute_episode": 81,
+          "title": "Nightmare",
+          "summary": "Captured soldiers endure torture, only to learn they were on Earth the whole time — and doom it.",
+          "imdb_rating": 7.2
+        },
+        {
+          "id": "S04E21",
+          "season": 4,
+          "episode": 21,
+          "absolute_episode": 82,
+          "title": "Promised Land",
+          "summary": "Surviving humans raid the farm of aliens living on postwar Earth, edging toward mutual destruction.",
+          "imdb_rating": 7.1
+        },
+        {
+          "id": "S04E22",
+          "season": 4,
+          "episode": 22,
+          "absolute_episode": 83,
+          "title": "The Balance of Nature",
+          "summary": "A scientist's cellular rejuvenation machine trades youth between two people with tragic results.",
+          "imdb_rating": 7.0
+        },
+        {
+          "id": "S04E23",
+          "season": 4,
+          "episode": 23,
+          "absolute_episode": 84,
+          "title": "The Origin of Species",
+          "summary": "Dr. Nodel's transformed group boards an alien ship that may be leading them astray.",
+          "imdb_rating": 6.4
+        },
+        {
+          "id": "S04E24",
+          "season": 4,
+          "episode": 24,
+          "absolute_episode": 85,
+          "title": "Phobos Rising",
+          "summary": "Rival Mars bases mistrust each other after Earth is destroyed, edging toward annihilation.",
+          "imdb_rating": 7.1
+        },
+        {
+          "id": "S04E25",
+          "season": 4,
+          "episode": 25,
+          "absolute_episode": 86,
+          "title": "Black Box",
+          "summary": "A haunted ex-soldier relives a botched mission, stalked by a mysterious commando.",
+          "imdb_rating": 6.0
+        },
+        {
+          "id": "S04E26",
+          "season": 4,
+          "episode": 26,
+          "absolute_episode": 87,
+          "title": "In Our Own Image",
+          "summary": "A rogue android kidnaps a woman to repair him, revealing Innobotics' history of sentient machines.",
+          "imdb_rating": 6.6
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "season": 5,
+      "years": "1999",
+      "year_start": 1999,
+      "year_end": 1999,
+      "episode_count": 22,
+      "episodes": [
+        {
+          "id": "S05E01",
+          "season": 5,
+          "episode": 1,
+          "absolute_episode": 88,
+          "title": "Alien Radio",
+          "summary": "A skeptical talk-show host who mocks UFO believers starts experiencing alien encounters himself.",
+          "imdb_rating": 6.8
+        },
+        {
+          "id": "S05E02",
+          "season": 5,
+          "episode": 2,
+          "absolute_episode": 89,
+          "title": "Donor",
+          "summary": "A full-body transplant patient inherits his donor's memories and love for the donor's family.",
+          "imdb_rating": 6.9
+        },
+        {
+          "id": "S05E03",
+          "season": 5,
+          "episode": 3,
+          "absolute_episode": 90,
+          "title": "Small Friends",
+          "summary": "A prisoner uses microscopic machines he built to fix devices, but inmates blackmail him into a breakout.",
+          "imdb_rating": 7.2
+        },
+        {
+          "id": "S05E04",
+          "season": 5,
+          "episode": 4,
+          "absolute_episode": 91,
+          "title": "The Grell",
+          "summary": "Rescued aliens enslaved by humans rebel; a master healed by a slave begins to see their perspective.",
+          "imdb_rating": 7.1
+        },
+        {
+          "id": "S05E05",
+          "season": 5,
+          "episode": 5,
+          "absolute_episode": 92,
+          "title": "The Other Side",
+          "summary": "A researcher links comatose patients' minds, discovering they've found love in a shared world.",
+          "imdb_rating": 7.1
+        },
+        {
+          "id": "S05E06",
+          "season": 5,
+          "episode": 6,
+          "absolute_episode": 93,
+          "title": "Joyride",
+          "summary": "A disgraced astronaut joins a private space flight to revisit the mysterious light that ruined his career.",
+          "imdb_rating": 6.7
+        },
+        {
+          "id": "S05E07",
+          "season": 5,
+          "episode": 7,
+          "absolute_episode": 94,
+          "title": "The Human Operators",
+          "summary": "A man kept as a repair slave by a sentient warship falls in love and fights for freedom.",
+          "imdb_rating": 7.8
+        },
+        {
+          "id": "S05E08",
+          "season": 5,
+          "episode": 8,
+          "absolute_episode": 95,
+          "title": "Blank Slate",
+          "summary": "An amnesiac chased through an alley carries a box holding his stolen memories.",
+          "imdb_rating": 5.7
+        },
+        {
+          "id": "S05E09",
+          "season": 5,
+          "episode": 9,
+          "absolute_episode": 96,
+          "title": "What Will The Neighbors Think?",
+          "summary": "A hypochondriac who gains telepathy after electrocution stirs up her building's secrets.",
+          "imdb_rating": 6.1
+        },
+        {
+          "id": "S05E10",
+          "season": 5,
+          "episode": 10,
+          "absolute_episode": 97,
+          "title": "The Shroud",
+          "summary": "A couple seeking fertility help is unwittingly part of a plot to clone Jesus from the Shroud of Turin.",
+          "imdb_rating": 6.8
+        },
+        {
+          "id": "S05E11",
+          "season": 5,
+          "episode": 11,
+          "absolute_episode": 98,
+          "title": "Ripper",
+          "summary": "A doctor tracks an alien creature that lives inside women and jumps hosts, framed as Jack the Ripper.",
+          "imdb_rating": 6.8
+        },
+        {
+          "id": "S05E12",
+          "season": 5,
+          "episode": 12,
+          "absolute_episode": 99,
+          "title": "The Tribunal",
+          "summary": "A lawyer hunting a Nazi war criminal gets help from a time traveler with evidence from Auschwitz.",
+          "imdb_rating": 8.3
+        },
+        {
+          "id": "S05E13",
+          "season": 5,
+          "episode": 13,
+          "absolute_episode": 100,
+          "title": "Summit",
+          "summary": "Diplomats from Earth and a genetically-engineered colony race to avert mutual annihilation.",
+          "imdb_rating": 7.3
+        },
+        {
+          "id": "S05E14",
+          "season": 5,
+          "episode": 14,
+          "absolute_episode": 101,
+          "title": "Descent",
+          "summary": "A meek researcher injects himself with dominance genes, devolving into a violent primitive.",
+          "imdb_rating": 6.1
+        },
+        {
+          "id": "S05E15",
+          "season": 5,
+          "episode": 15,
+          "absolute_episode": 102,
+          "title": "The Haven",
+          "summary": "Isolated apartment residents must cooperate when their building's systems malfunction.",
+          "imdb_rating": 7.3
+        },
+        {
+          "id": "S05E16",
+          "season": 5,
+          "episode": 16,
+          "absolute_episode": 103,
+          "title": "Déjà Vu",
+          "summary": "A teleportation experiment loops a scientist through the same day as the only one who remembers.",
+          "imdb_rating": 7.5
+        },
+        {
+          "id": "S05E17",
+          "season": 5,
+          "episode": 17,
+          "absolute_episode": 104,
+          "title": "The Inheritors",
+          "summary": "A man struck by a meteorite rises from the dead, joining others with a mysterious plan.",
+          "imdb_rating": 6.7
+        },
+        {
+          "id": "S05E18",
+          "season": 5,
+          "episode": 18,
+          "absolute_episode": 105,
+          "title": "Essence of Life",
+          "summary": "In a post-plague world banning emotion, a woman inhales a drug to reunite with her dead husband.",
+          "imdb_rating": 6.8
+        },
+        {
+          "id": "S05E19",
+          "season": 5,
+          "episode": 19,
+          "absolute_episode": 106,
+          "title": "Stranded",
+          "summary": "A neglected boy befriends an alien who crash-lands on Earth.",
+          "imdb_rating": 7.1
+        },
+        {
+          "id": "S05E20",
+          "season": 5,
+          "episode": 20,
+          "absolute_episode": 107,
+          "title": "Fathers & Sons",
+          "summary": "A man visits his Alzheimer's-stricken grandfather, secretly kept in a vast human storage facility.",
+          "imdb_rating": 7.3
+        },
+        {
+          "id": "S05E21",
+          "season": 5,
+          "episode": 21,
+          "absolute_episode": 108,
+          "title": "Starcrossed",
+          "summary": "A futuristic Casablanca where a couple carrying a war-winning parasite seeks escape.",
+          "imdb_rating": 6.3
+        },
+        {
+          "id": "S05E22",
+          "season": 5,
+          "episode": 22,
+          "absolute_episode": 109,
+          "title": "Better Luck Next Time",
+          "summary": "Two murder suspects each claim to be alien cops hunting the other.",
+          "imdb_rating": 6.6
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "season": 6,
+      "years": "2000",
+      "year_start": 2000,
+      "year_end": 2000,
+      "episode_count": 21,
+      "episodes": [
+        {
+          "id": "S06E01",
+          "season": 6,
+          "episode": 1,
+          "absolute_episode": 110,
+          "title": "Judgment Day",
+          "summary": "A reality show lets murder victims' families hunt and execute killers on live TV.",
+          "imdb_rating": 7.4
+        },
+        {
+          "id": "S06E02",
+          "season": 6,
+          "episode": 2,
+          "absolute_episode": 111,
+          "title": "The Gun",
+          "summary": "A man buys a gun that fuses to his hand and transforms him into a killing machine.",
+          "imdb_rating": 6.5
+        },
+        {
+          "id": "S06E03",
+          "season": 6,
+          "episode": 3,
+          "absolute_episode": 112,
+          "title": "Skin Deep",
+          "summary": "A lonely accountant uses a holographic disguise to impersonate a handsome coworker, with deadly results.",
+          "imdb_rating": 7.1
+        },
+        {
+          "id": "S06E04",
+          "season": 6,
+          "episode": 4,
+          "absolute_episode": 113,
+          "title": "Manifest Destiny",
+          "summary": "An invisible alien aboard a salvage spaceship drives the crew insane.",
+          "imdb_rating": 6.9
+        },
+        {
+          "id": "S06E05",
+          "season": 6,
+          "episode": 5,
+          "absolute_episode": 114,
+          "title": "Breaking Point",
+          "summary": "A fired scientist time-travels to stop his wife's death, only to suspect he caused it.",
+          "imdb_rating": 7.2
+        },
+        {
+          "id": "S06E06",
+          "season": 6,
+          "episode": 6,
+          "absolute_episode": 115,
+          "title": "The Beholder",
+          "summary": "A blind professor gains sight and glimpses a stranded alien, risking everything to protect her.",
+          "imdb_rating": 7.0
+        },
+        {
+          "id": "S06E07",
+          "season": 6,
+          "episode": 7,
+          "absolute_episode": 116,
+          "title": "Seeds of Destruction",
+          "summary": "A veterinarian links a rash of fast-growing tumors to genetically engineered corn.",
+          "imdb_rating": 6.0
+        },
+        {
+          "id": "S06E08",
+          "season": 6,
+          "episode": 8,
+          "absolute_episode": 117,
+          "title": "Simon Says",
+          "summary": "A grieving man builds a robot containing his dead son's memories.",
+          "imdb_rating": 7.4
+        },
+        {
+          "id": "S06E09",
+          "season": 6,
+          "episode": 9,
+          "absolute_episode": 118,
+          "title": "Stasis",
+          "summary": "In a resource-scarce future, two rotating worker classes fall in love across shift changes.",
+          "imdb_rating": 7.2
+        },
+        {
+          "id": "S06E10",
+          "season": 6,
+          "episode": 10,
+          "absolute_episode": 119,
+          "title": "Down to Earth",
+          "summary": "At a UFO convention, a man presents what may be a fragment of an alien spaceship.",
+          "imdb_rating": 6.4
+        },
+        {
+          "id": "S06E11",
+          "season": 6,
+          "episode": 11,
+          "absolute_episode": 120,
+          "title": "The Inner Child",
+          "summary": "A woman learns she had a sacrificed twin whose personality begins taking over her own.",
+          "imdb_rating": 6.4
+        },
+        {
+          "id": "S06E12",
+          "season": 6,
+          "episode": 12,
+          "absolute_episode": 121,
+          "title": "Glitch",
+          "summary": "An android husband discovers his \"memories\" are bugs planted by his creator.",
+          "imdb_rating": 7.4
+        },
+        {
+          "id": "S06E13",
+          "season": 6,
+          "episode": 13,
+          "absolute_episode": 122,
+          "title": "Decompression",
+          "summary": "A presidential candidate is visited by a time traveler warning of his death on a plane.",
+          "imdb_rating": 8.1
+        },
+        {
+          "id": "S06E14",
+          "season": 6,
+          "episode": 14,
+          "absolute_episode": 123,
+          "title": "Abaddon",
+          "summary": "A reclamation crew revives a 150-year-old executed rebel still alive in a floating pod.",
+          "imdb_rating": 6.4
+        },
+        {
+          "id": "S06E15",
+          "season": 6,
+          "episode": 15,
+          "absolute_episode": 124,
+          "title": "The Grid",
+          "summary": "A man investigates his hometown, now under mind-control via antenna towers.",
+          "imdb_rating": 6.6
+        },
+        {
+          "id": "S06E16",
+          "season": 6,
+          "episode": 16,
+          "absolute_episode": 125,
+          "title": "Revival",
+          "summary": "A tent revivalist battles an evil alien posing as a divine power.",
+          "imdb_rating": 6.8
+        },
+        {
+          "id": "S06E17",
+          "season": 6,
+          "episode": 17,
+          "absolute_episode": 126,
+          "title": "Gettysburg",
+          "summary": "Two Civil War re-enactors are sent back to the eve of Gettysburg by a time traveler.",
+          "imdb_rating": 7.2
+        },
+        {
+          "id": "S06E18",
+          "season": 6,
+          "episode": 18,
+          "absolute_episode": 127,
+          "title": "Something About Harry",
+          "summary": "A teen suspects his mother's new tenant as townspeople begin to vanish.",
+          "imdb_rating": 7.1
+        },
+        {
+          "id": "S06E19",
+          "season": 6,
+          "episode": 19,
+          "absolute_episode": 128,
+          "title": "Zig Zag",
+          "summary": "The lone surviving anti-technology bomber holds the detonator, recounting how he got there.",
+          "imdb_rating": 6.4
+        },
+        {
+          "id": "S06E20",
+          "season": 6,
+          "episode": 20,
+          "absolute_episode": 129,
+          "title": "Nest",
+          "summary": "Arctic scientists discover polar mites that infest humans and drive them psychotic.",
+          "imdb_rating": 6.3
+        },
+        {
+          "id": "S06E21",
+          "season": 6,
+          "episode": 21,
+          "absolute_episode": 130,
+          "title": "Final Appeal",
+          "summary": "Dr. Theresa Givens stands trial for time travel in a future that has banned technology.",
+          "imdb_rating": 6.8
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "season": 7,
+      "years": "2001-2002",
+      "year_start": 2001,
+      "year_end": 2002,
+      "episode_count": 22,
+      "episodes": [
+        {
+          "id": "S07E01",
+          "season": 7,
+          "episode": 1,
+          "absolute_episode": 131,
+          "title": "Family Values",
+          "summary": "A workaholic father buys a robot helper that gradually replaces him as head of the household.",
+          "imdb_rating": 7.4
+        },
+        {
+          "id": "S07E02",
+          "season": 7,
+          "episode": 2,
+          "absolute_episode": 132,
+          "title": "Patient Zero",
+          "summary": "A soldier sent back to kill the source of a deadly plague becomes patient zero himself.",
+          "imdb_rating": 8.1
+        },
+        {
+          "id": "S07E03",
+          "season": 7,
+          "episode": 3,
+          "absolute_episode": 133,
+          "title": "A New Life",
+          "summary": "A preacher leads followers into a secluded enclave with hidden motives.",
+          "imdb_rating": 7.2
+        },
+        {
+          "id": "S07E04",
+          "season": 7,
+          "episode": 4,
+          "absolute_episode": 134,
+          "title": "The Surrogate",
+          "summary": "A struggling artist's surrogacy pregnancy takes a sinister turn.",
+          "imdb_rating": 6.8
+        },
+        {
+          "id": "S07E05",
+          "season": 7,
+          "episode": 5,
+          "absolute_episode": 135,
+          "title": "The Vessel",
+          "summary": "The sole survivor of a shuttle crash becomes invulnerable and suddenly brilliant.",
+          "imdb_rating": 6.7
+        },
+        {
+          "id": "S07E06",
+          "season": 7,
+          "episode": 6,
+          "absolute_episode": 136,
+          "title": "Mona Lisa",
+          "summary": "An assassin android develops humanity after her fail-safes are disengaged.",
+          "imdb_rating": 7.3
+        },
+        {
+          "id": "S07E07",
+          "season": 7,
+          "episode": 7,
+          "absolute_episode": 137,
+          "title": "Replica",
+          "summary": "A geneticist illegally clones his comatose wife, but the copy won't give up her life.",
+          "imdb_rating": 7.7
+        },
+        {
+          "id": "S07E08",
+          "season": 7,
+          "episode": 8,
+          "absolute_episode": 138,
+          "title": "Think Like a Dinosaur",
+          "summary": "A teleportation test creates a duplicate, forcing an ethical \"balancing\" kill.",
+          "imdb_rating": 7.2
+        },
+        {
+          "id": "S07E09",
+          "season": 7,
+          "episode": 9,
+          "absolute_episode": 139,
+          "title": "Alien Shop",
+          "summary": "An alien shapeshifter's curio shop sells a petty crook a wallet with a cruel price.",
+          "imdb_rating": 7.3
+        },
+        {
+          "id": "S07E10",
+          "season": 7,
+          "episode": 10,
+          "absolute_episode": 140,
+          "title": "Worlds Within",
+          "summary": "A mutant child links to another dimension; a scientist tries to save him from exploitation.",
+          "imdb_rating": 6.4
+        },
+        {
+          "id": "S07E11",
+          "season": 7,
+          "episode": 11,
+          "absolute_episode": 141,
+          "title": "In the Blood",
+          "summary": "A Navajo astrophysicist on a deep-space mission realizes their return could doom humanity.",
+          "imdb_rating": 5.7
+        },
+        {
+          "id": "S07E12",
+          "season": 7,
+          "episode": 12,
+          "absolute_episode": 142,
+          "title": "Flower Child",
+          "summary": "An alien plant takes human form to find a father for her billions of children.",
+          "imdb_rating": 6.6
+        },
+        {
+          "id": "S07E13",
+          "season": 7,
+          "episode": 13,
+          "absolute_episode": 143,
+          "title": "Free Spirit",
+          "summary": "The body-hopping spirit of a man killed in a military experiment stalks a doctor.",
+          "imdb_rating": 6.1
+        },
+        {
+          "id": "S07E14",
+          "season": 7,
+          "episode": 14,
+          "absolute_episode": 144,
+          "title": "Mindreacher",
+          "summary": "A doctor testing a mind-entering tool risks her sanity as her own guinea pig.",
+          "imdb_rating": 6.7
+        },
+        {
+          "id": "S07E15",
+          "season": 7,
+          "episode": 15,
+          "absolute_episode": 145,
+          "title": "Time to Time",
+          "summary": "A recruit of future time travelers returns to the day her father died in 1969.",
+          "imdb_rating": 7.4
+        },
+        {
+          "id": "S07E16",
+          "season": 7,
+          "episode": 16,
+          "absolute_episode": 146,
+          "title": "Abduction",
+          "summary": "An alien forces five high school students to choose which one of them must die.",
+          "imdb_rating": 7.5
+        },
+        {
+          "id": "S07E17",
+          "season": 7,
+          "episode": 17,
+          "absolute_episode": 147,
+          "title": "Rule of Law",
+          "summary": "A judge brings the law to a frontier planet, trying an alien accused of killing humans.",
+          "imdb_rating": 7.3
+        },
+        {
+          "id": "S07E18",
+          "season": 7,
+          "episode": 18,
+          "absolute_episode": 148,
+          "title": "Lion's Den",
+          "summary": "A losing wrestling coach gives his team a panther-DNA drug with horrific side effects.",
+          "imdb_rating": 6.2
+        },
+        {
+          "id": "S07E19",
+          "season": 7,
+          "episode": 19,
+          "absolute_episode": 149,
+          "title": "The Tipping Point",
+          "summary": "A hacker fights a universal programming language that may birth a dangerous AI.",
+          "imdb_rating": 6.5
+        },
+        {
+          "id": "S07E20",
+          "season": 7,
+          "episode": 20,
+          "absolute_episode": 150,
+          "title": "Dark Child",
+          "summary": "An abduction survivor's memories resurface as her daughter's new teacher seems eerily familiar.",
+          "imdb_rating": 6.0
+        },
+        {
+          "id": "S07E21",
+          "season": 7,
+          "episode": 21,
+          "absolute_episode": 151,
+          "title": "The Human Factor",
+          "summary": "In 2084, a commander plays chess with an android to prove humanity deserves to survive.",
+          "imdb_rating": 6.4
+        },
+        {
+          "id": "S07E22",
+          "season": 7,
+          "episode": 22,
+          "absolute_episode": 152,
+          "title": "Human Trials",
+          "summary": "Four recruits compete for a solo mission through increasingly real simulation tests.",
+          "imdb_rating": 5.3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+---
+import { EpisodeNavigator } from "../components/organisms/EpisodeNavigator";
+import { getDefaultShow, toEpisodeViews } from "../lib/showCatalog";
+import "../styles/global.css";
+
+const show = getDefaultShow();
+const episodes = toEpisodeViews(show);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{show.title} - Episode Navigator</title>
+  </head>
+  <body>
+    <EpisodeNavigator show={show} episodes={episodes} client:load />
+  </body>
+</html>
