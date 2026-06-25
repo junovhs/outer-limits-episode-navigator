@@ -2,3 +2,7 @@ node_modules/
 dist/
 .astro/
 .semmap/
+.ishoo/
+**/.ishoo/*.local.toml
+**/.ishoo/cache/
+**/.ishoo/worktrees/
